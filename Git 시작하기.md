@@ -85,3 +85,8 @@ git init
 
 폴더에 숨김모드로 **.git** 폴더 생성 확인
   * 이 폴더를 지우면 Git 관리내역이 삭제된다.
+
+
+---
+
+출처 - [얄코의 Git 강의](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard)

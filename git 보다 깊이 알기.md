@@ -42,4 +42,39 @@ git restore --staged (파일명)
 
 ---
 
+## HEAD
+
+![image](https://github.com/user-attachments/assets/d125f878-e076-4deb-ae58-b233731b805c)
+
+### Git의 HEAD
+
+현재 속한 브랜치의 가장 최신 커밋
+
+ * switch로 브랜치 이동 가능
+
+`checkout`으로 앞뒤 이동해보기
+
+```
+git checkout HEAD^
+```
+
+ * `^`또는 `~` : 갯수만큼 이전으로 이동
+
+    * `git checkout HEAD^^^^^`, `git checkout HEAD~5`
+  
+ * 커밋 해시이용 이동 가능
+
+    * `git checkout (커밋해시)`
+  
+ * `git checkout - ` : (이동을) 한 단계 되돌리기
+
+### HEAD 사용하여 reset하기
+
+```
+git reset HEAD(원하는단계) (옵션)
+```
+
+
+---
+
 참고강의 - [얄코(Yalco) <제대로 파는 Git & GitHub>](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard)

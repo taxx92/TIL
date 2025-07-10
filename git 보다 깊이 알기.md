@@ -74,6 +74,17 @@ git checkout HEAD^
 git reset HEAD(원하는단계) (옵션)
 ```
 
+---
+
+## fetch vs pull
+
+### fetch와 pull의 차이
+
+* `fetch` : 원격 저장소의 최신 커밋을 로컬로 가져오기만 함
+
+* `pull` : 원격 저장소의 최신 커밋을 로컬로 가져와 `merge` 또는 `rebase`
+
+  
 
 ---
 

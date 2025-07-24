@@ -150,5 +150,53 @@ git rebase --continue
 
 ---
 
+## 다른 브랜치에서 원하는 커밋만 따오기
+
+`cherry-pick` 명령어 사용
+
+### `tax`커밋 `main`브랜치로 가져오기
+
+`main`브랜치에서 실행
+```
+git cherry-pick (tax의 해시)
+```
+
+## 다른 브랜치에서 파생된 브랜치 옮겨 붙이기
+
+`rebase--onto` 사용
+
+```
+git rebase --onto (도착 브랜치) (출발 브랜치) (이동할 브랜치)
+```
+
+## 다른 커밋들을 하나로 묶어 가져오기
+
+`merge--squash`사용
+
+```
+git merge --squash (대상 브랜치)
+```
+* 변경사항들 스테이지 되어 있음
+* `git commit` 후 메시지 입력
+* 일반 merge와의 차이
+  * 일반 merge : A와B 두 브랜치를 한 곳으로 이어붙임
+  * merge--squash : B브랜치의 마디들을 복사해다가 한 마디로 모아 A브랜치에 붙임 
+
+---
+
+## 협업을 위한 브랜치 활용법
+<img width="1150" height="1524" alt="image" src="https://github.com/user-attachments/assets/459f245d-30d4-4c1f-b46f-3b02cf3875b0" />
+
+사용되는 브랜치들
+|브랜치|용도|
+|--|--|
+|main|제품 출시/배포|
+|develop|다음 출시/배포를 위한 개발 진행|
+|release|출시/배포 전 테스트 진행(QA)|
+|feature|기능 개발|
+|hotpix|긴급한 버그 수정|
+
+---
+
 참고강의 - [얄코(Yalco) <제대로 파는 Git & GitHub>](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard)
 

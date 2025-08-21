@@ -13,4 +13,4 @@
 
 
 ### HTML, CSS
-* [제목과 본문](https://github.com/taxx92/TIL/blob/main/%EC%A0%9C%EB%AA%A9%EA%B3%BC%20%EB%B3%B8%EB%AC%B8.md)
+* [제목과 본문, 종류와 중요도에 따른 태그](https://github.com/taxx92/TIL/blob/main/%EC%A0%9C%EB%AA%A9%EA%B3%BC%20%EB%B3%B8%EB%AC%B8,%20%EC%A2%85%EB%A5%98%EC%99%80%20%EC%A4%91%EC%9A%94%EB%8F%84%EC%97%90%20%EB%94%B0%EB%A5%B8%20%ED%83%9C%EA%B7%B8.md)

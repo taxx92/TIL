@@ -18,3 +18,4 @@
 * [이미지 넣기, 표 사용하기](https://github.com/taxx92/TIL/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%84%A3%EA%B8%B0%2C%20%ED%91%9C%20%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 * [다른곳으로의 링크 추가](http://github.com/taxx92/TIL/blob/main/%EB%8B%A4%EB%A5%B8%20%EA%B3%B3%EC%9C%BC%EB%A1%9C%EC%9D%98%20%EB%A7%81%ED%81%AC%20%EC%B6%94%EA%B0%80.md)
 * [사용자로부터 입력 받기](https://github.com/taxx92/TIL/blob/main/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A1%9C%EB%B6%80%ED%84%B0%20%EC%9E%85%EB%A0%A5%20%EB%B0%9B%EA%B8%B0.md)
+* [기타 태그들](https://github.com/taxx92/TIL/blob/main/%EA%B8%B0%ED%83%80%20%ED%83%9C%EA%B7%B8%EB%93%A4.md)

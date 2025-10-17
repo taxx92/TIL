@@ -19,3 +19,4 @@
 * [다른곳으로의 링크 추가](http://github.com/taxx92/TIL/blob/main/%EB%8B%A4%EB%A5%B8%20%EA%B3%B3%EC%9C%BC%EB%A1%9C%EC%9D%98%20%EB%A7%81%ED%81%AC%20%EC%B6%94%EA%B0%80.md)
 * [사용자로부터 입력 받기](https://github.com/taxx92/TIL/blob/main/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A1%9C%EB%B6%80%ED%84%B0%20%EC%9E%85%EB%A0%A5%20%EB%B0%9B%EA%B8%B0.md)
 * [기타 태그들](https://github.com/taxx92/TIL/blob/main/%EA%B8%B0%ED%83%80%20%ED%83%9C%EA%B7%B8%EB%93%A4.md)
+* [CSS 적용방법과 선택자들](https://github.com/taxx92/TIL/blob/main/CSS%20%EC%A0%81%EC%9A%A9%EB%B0%A9%EB%B2%95%EA%B3%BC%20%EC%84%A0%ED%83%9D%EC%9E%90%EB%93%A4.md)

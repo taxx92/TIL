@@ -20,4 +20,4 @@
 * [사용자로부터 입력 받기](https://github.com/taxx92/TIL/blob/main/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A1%9C%EB%B6%80%ED%84%B0%20%EC%9E%85%EB%A0%A5%20%EB%B0%9B%EA%B8%B0.md)
 * [기타 태그들](https://github.com/taxx92/TIL/blob/main/%EA%B8%B0%ED%83%80%20%ED%83%9C%EA%B7%B8%EB%93%A4.md)
 * [CSS 적용방법과 선택자들](https://github.com/taxx92/TIL/blob/main/CSS%20%EC%A0%81%EC%9A%A9%EB%B0%A9%EB%B2%95%EA%B3%BC%20%EC%84%A0%ED%83%9D%EC%9E%90%EB%93%A4.md)
-* [글자와 텍스트 스타일](https://github.com/taxx92/TIL/blob/main/%EA%B8%80%EC%9E%90%EC%99%80%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC.md)
+* [글자와 텍스트 스타일 & 문단과 목록 스타일](https://github.com/taxx92/TIL/blob/main/%EA%B8%80%EC%9E%90%EC%99%80%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%20&%20%EB%AC%B8%EB%8B%A8%EA%B3%BC%20%EB%AA%A9%EB%A1%9D%20%EC%8A%A4%ED%83%80%EC%9D%BC.md)
